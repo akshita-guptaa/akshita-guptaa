@@ -4,7 +4,7 @@
 ## 🚀 About Me
 - 🎓 I’m currently pursuing B.Tech at Manipal University Jaipur
 - 🌱 I’m currently learning AI/ML, Web Development
-- - 🔭 I’m currentlyworking on personal projects
+- 🔭 I’m currentlyworking on personal projects
 - 💬 Ask me about Python, Web Dev, or Data Science
 - 📫 How to reach me: akshitaa.guptaaa@email.com
 
