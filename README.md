@@ -2,8 +2,7 @@
 # Hi there 👋, I'm Akshita Gupta
 
 
-🚀 **Developer Portfolio:**  
-[View My Portfolio](https://akshita-guptaaa.vercel.app/)
+🚀 **Developer Portfolio:**  [View My Portfolio](https://akshita-guptaaa.vercel.app/)
 
 ## 🚀 About Me
 - 🎓 I’m currently pursuing B.Tech at Manipal University Jaipur
